@@ -2,6 +2,7 @@
 
 [![Build Status](http://img.shields.io/travis/zenorocha/clipboard.js/master.svg?style=flat)](https://travis-ci.org/zenorocha/clipboard.js)
 ![Killing Flash](https://img.shields.io/badge/killing-flash-brightgreen.svg?style=flat)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fclipboard.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fclipboard.js?ref=badge_shield)
 
 > Modern copy to clipboard. No Flash. Just 3kb gzipped.
 
@@ -187,3 +188,6 @@ Install for [Chrome](https://chrome.google.com/webstore/detail/codecopy/fkbfebkc
 ## License
 
 [MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fclipboard.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fclipboard.js?ref=badge_large)
